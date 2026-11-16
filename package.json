@@ -1,0 +1,1 @@
+{"name":"targul-de-iarna-cluj","private":true,"scripts":{"build":"python3 scripts/build-locales.py","test":"node --test tests/*.test.cjs"},"devDependencies":{"linkedom":"0.18.15"}}
