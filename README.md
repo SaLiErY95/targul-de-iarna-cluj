@@ -3,7 +3,7 @@ Site static, fără build sau servicii externe de tracking. GitHub Pages: main /
 
 ## De completat
 - Perioada evenimentului.
-- Tarife patinoar și carusel, condiții și eventuale servicii suplimentare confirmate.
+- Durata sesiunilor și eventualele condiții suplimentare confirmate.
 - Oferta celor doi vendori.
 - Domeniul final, apoi CNAME în GitHub Pages și DNS în Cloudflare.
 

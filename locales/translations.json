@@ -430,5 +430,71 @@
     "Carrousel classique illuminé de lumières dorées",
     "Arany fényben ragyogó klasszikus körhinta",
     "Klassisches Karussell im goldenen Lichterglanz"
+  ],
+  "Acces patinoar / sesiune": [
+    "Ice rink admission / session",
+    "Accès à la patinoire / séance",
+    "Belépés a jégpályára / alkalom",
+    "Eintritt Eisbahn / Laufzeit"
+  ],
+  "30 lei / persoană": [
+    "30 lei / person",
+    "30 lei / personne",
+    "30 lej / fő",
+    "30 Lei / Person"
+  ],
+  "20 lei": [
+    "20 lei",
+    "20 lei",
+    "20 lej",
+    "20 Lei"
+  ],
+  "30 lei": [
+    "30 lei",
+    "30 lei",
+    "30 lej",
+    "30 Lei"
+  ],
+  "Alege-ți bucuria.": [
+    "Choose your little joy.",
+    "Choisissez votre petit bonheur.",
+    "Válaszd ki a kedvenc élményed.",
+    "Wähle deine Winterfreude."
+  ],
+  "Tarife pentru patinoar și carusel.": [
+    "Prices for ice skating and the carousel.",
+    "Tarifs de la patinoire et du carrousel.",
+    "A korcsolyapálya és a körhinta árai.",
+    "Preise für Eisbahn und Karussell."
+  ],
+  "Închiriere patine": [
+    "Skate rental",
+    "Location de patins",
+    "Korcsolyakölcsönzés",
+    "Schlittschuhverleih"
+  ],
+  "Pinguin ajutător": [
+    "Penguin skating aid",
+    "Aide au patinage pingouin",
+    "Pingvin korcsolyasegéd",
+    "Pinguin-Laufhilfe"
+  ],
+  "/ persoană / sesiune": [
+    "/ person / session",
+    "/ personne / séance",
+    "/ fő / alkalom",
+    "/ Person / Laufzeit"
+  ],
+  "/ bucată": [
+    "/ each",
+    "/ pièce",
+    "/ darab",
+    "/ Stück"
+  ],
+  "/ tură": [
+    "/ ride",
+    "/ tour",
+    "/ kör",
+    "/ Fahrt"
   ]
 }

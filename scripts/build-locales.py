@@ -9,7 +9,7 @@ FILES = dict(zip(LANGS, ['index.html', 'en.html', 'fr.html', 'hu.html', 'de.html
 NAMES = ['Română', 'English', 'Français', 'Magyar', 'Deutsch']
 TRANSLATIONS = json.loads((ROOT / 'locales/translations.json').read_text())
 BASE = 'https://saliery95.github.io/targul-de-iarna-cluj/'
-LITERALS = {'01', '02', '10:00 — 22:00', '10:00', '—', '22:00', 'Horia Demian', 'CLUJ-NAPOCA'}
+LITERALS = {'01', '02', '03', '04', '10:00 — 22:00', '10:00', '—', '22:00', 'Horia Demian', 'CLUJ-NAPOCA'}
 class Localize(HTMLParser):
     def __init__(self, lang):
         super().__init__(convert_charrefs=True)
