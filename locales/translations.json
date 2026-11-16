@@ -1,76 +1,434 @@
 {
-"Târgul de Iarnă Cluj — bucurii pe gheață":["Cluj Winter Fair — joy on ice","Marché d’hiver de Cluj — la joie sur glace","Kolozsvári Téli Vásár — öröm a jégen","Wintermarkt Cluj — Freude auf dem Eis"],
-"Patinoar, carusel și o pauză de răsfăț la Târgul de Iarnă Cluj, în parcarea Sălii Sporturilor Horia Demian. Program 10:00–22:00.":["Ice skating, a carousel and a little treat at Cluj Winter Fair, in the Horia Demian Sports Hall car park. Opening hours 10:00–22:00.","Patinoire, carrousel et pause gourmande au Marché d’hiver de Cluj, sur le parking de la salle des sports Horia Demian. Horaires : 10 h–22 h.","Korcsolyapálya, körhinta és egy kis finomság a Kolozsvári Téli Vásáron, a Horia Demian Sportcsarnok parkolójában. Nyitvatartás: 10:00–22:00.","Eisbahn, Karussell und eine kleine Genusspause auf dem Wintermarkt Cluj, auf dem Parkplatz der Sporthalle Horia Demian. Öffnungszeiten: 10:00–22:00 Uhr."],
-"Târgul de Iarnă Cluj":["Cluj Winter Fair","Marché d’hiver de Cluj","Kolozsvári Téli Vásár","Wintermarkt Cluj"],
-"Ne întâlnim pe gheață. Patinoar și carusel la Sala Sporturilor Horia Demian, 10:00–22:00.":["Meet us on the ice. Ice rink and carousel at Horia Demian Sports Hall, 10:00–22:00.","Rendez-vous sur la glace. Patinoire et carrousel à la salle des sports Horia Demian, de 10 h à 22 h.","Találkozzunk a jégen! Korcsolyapálya és körhinta a Horia Demian Sportcsarnoknál, 10:00–22:00.","Wir treffen uns auf dem Eis. Eisbahn und Karussell an der Sporthalle Horia Demian, 10:00–22:00 Uhr."],
-"Sari la conținut":["Skip to content","Aller au contenu","Ugrás a tartalomra","Zum Inhalt springen"],
-"Târgul de Iarnă Cluj, început":["Cluj Winter Fair, home","Marché d’hiver de Cluj, accueil","Kolozsvári Téli Vásár, kezdőlap","Wintermarkt Cluj, Startseite"],
-"Târgul de Iarnă":["Winter Fair","Marché d’hiver","Téli Vásár","Wintermarkt"],
-"Meniu":["Menu","Menu","Menü","Menü"],
-"Navigație principală":["Main navigation","Navigation principale","Fő navigáció","Hauptnavigation"],
-"Experiențe":["Experiences","Expériences","Élmények","Erlebnisse"],
-"Tarife":["Prices","Tarifs","Árak","Preise"],
-"Program & locație":["Hours & location","Horaires et lieu","Nyitvatartás és helyszín","Zeiten & Anfahrt"],
-"Ne vedem la târg":["See you at the fair","Rendez-vous au marché","Találkozzunk a vásáron","Wir sehen uns dort"],
-"Limba":["Language","Langue","Nyelv","Sprache"],
-"Ilustrație de atmosferă: patinoar în aer liber, sub lumini calde de iarnă":["Atmosphere illustration: outdoor ice rink beneath warm winter lights","Illustration d’ambiance : patinoire en plein air sous de douces lumières d’hiver","Hangulatkép: szabadtéri korcsolyapálya meleg téli fények alatt","Stimmungsbild: Eisbahn im Freien unter warmen Winterlichtern"],
-"CLUJ-NAPOCA · SALA SPORTURILOR HORIA DEMIAN":["CLUJ-NAPOCA · HORIA DEMIAN SPORTS HALL","CLUJ-NAPOCA · SALLE DES SPORTS HORIA DEMIAN","KOLOZSVÁR · HORIA DEMIAN SPORTCSARNOK","CLUJ-NAPOCA · SPORTHALLE HORIA DEMIAN"],
-"Iarna are":["Winter has","L’hiver a","A tél új","Der Winter hat"],
-"un nou loc":["a new place","un lieu","otthonra lel","einen Ort"],
-"de":["for","de","az","voll"],
-"bucurie.":["joy.","bonheur.","örömben.","Freude."],
-"Un pas pe gheață. O tură de carusel.":["A step onto the ice. A ride on the carousel.","Un pas sur la glace. Un tour de carrousel.","Egy lépés a jégen. Egy kör a körhintán.","Ein Schritt aufs Eis. Eine Runde Karussell."],
-"Și încă un motiv să ieșim împreună.":["One more reason to head out together.","Une raison de plus de sortir ensemble.","És még egy ok, hogy együtt mozduljunk ki.","Und noch ein Grund, gemeinsam rauszugehen."],
-"Descoperă târgul":["Explore the fair","Découvrir le marché","Fedezd fel a vásárt","Den Markt entdecken"],
-"PATINOAR · CARUSEL · GUSTURI BUNE":["ICE RINK · CAROUSEL · LITTLE TREATS","PATINOIRE · CARROUSEL · GOURMANDISES","KORCSOLYAPÁLYA · KÖRHINTA · FINOMSÁGOK","EISBAHN · KARUSSELL · GENUSSMOMENTE"],
-"Imagine ilustrativă":["Illustrative image","Image illustrative","Illusztráció","Illustratives Bild"],
-"Timp pentru o bucurie simplă.":["Time for a little joy.","Le temps d’un bonheur simple.","Idő egy kis örömre.","Zeit für die kleinen Freuden."],
-"Parcarea Sălii Sporturilor Horia Demian":["Horia Demian Sports Hall car park","Parking de la salle des sports Horia Demian","A Horia Demian Sportcsarnok parkolója","Parkplatz der Sporthalle Horia Demian"],
-"TÂRGUL DE IARNĂ CLUJ":["CLUJ WINTER FAIR","MARCHÉ D’HIVER DE CLUJ","KOLOZSVÁRI TÉLI VÁSÁR","WINTERMARKT CLUJ"],
-"Mai puțină grabă.":["Less rushing.","Moins de hâte.","Kevesebb rohanás.","Weniger Eile."],
-"Mai multă iarnă.":["More winter.","Plus d’hiver.","Több téli élmény.","Mehr Winter."],
-"Sunt zile în care o ieșire simplă devine amintirea preferată. Ne întâlnim la patinoar, ne lăsăm purtați de carusel și facem loc pentru încă puțin timp împreună.":["Sometimes a simple outing becomes your favourite memory. Meet us at the ice rink, take a spin on the carousel and make a little more time for each other.","Parfois, une simple sortie devient un souvenir précieux. Retrouvons-nous à la patinoire, laissons-nous emporter par le carrousel et prenons un peu plus de temps ensemble.","Van, amikor egy egyszerű kiruccanásból lesz a legkedvesebb emlék. Találkozzunk a jégpályán, üljünk fel a körhintára, és szánjunk még egy kis időt egymásra.","Manchmal wird ein einfacher Ausflug zur liebsten Erinnerung. Wir treffen uns auf der Eisbahn, drehen eine Runde Karussell und nehmen uns ein bisschen mehr Zeit füreinander."],
-"Imagine ilustrativă cu familii pe un patinoar luminat, la lăsarea serii":["Illustrative image of families skating on a lit ice rink at dusk","Image illustrative de familles sur une patinoire illuminée au crépuscule","Illusztráció alkonyatkor egy kivilágított korcsolyapályán korcsolyázó családokról","Illustratives Bild von Familien auf einer beleuchteten Eisbahn in der Abenddämmerung"],
-"UN PIC DE CURAJ. MULTĂ BUCURIE.":["A LITTLE COURAGE. A LOT OF JOY.","UN PEU D’AUDACE. BEAUCOUP DE JOIE.","EGY KIS BÁTORSÁG. SOK-SOK ÖRÖM.","EIN WENIG MUT. GANZ VIEL FREUDE."],
-"PE GHEAȚĂ, ÎMPREUNĂ":["TOGETHER ON THE ICE","ENSEMBLE SUR LA GLACE","EGYÜTT A JÉGEN","GEMEINSAM AUFS EIS"],
-"Prinde iarna":["Glide into","L’hiver","Csússz bele","Gleite in"],
-"din alunecare.":["winter.","en glissant.","a télbe.","den Winter."],
-"Primele mișcări timide sau încă o tură în ritmul tău. Patinoarul e locul în care obrajii se înroșesc, râsetele se aud mai tare și timpul trece puțin altfel.":["Tentative first steps or another lap at your own pace. The rink is where cheeks turn rosy, laughter grows louder and time takes on a different rhythm.","Des premiers pas hésitants ou un nouveau tour à votre rythme. Sur la patinoire, les joues rosissent, les rires résonnent et le temps s’écoule autrement.","Az első bizonytalan mozdulatok, vagy még egy kör a saját tempódban. A jégpályán kipirul az arcunk, hangosabb a nevetés, és más ritmusban telik az idő.","Die ersten zaghaften Schritte oder noch eine Runde im eigenen Tempo. Auf der Eisbahn werden die Wangen rot, das Lachen lauter und die Zeit vergeht ein bisschen anders."],
-"Acces patinoar":["Ice rink admission","Accès à la patinoire","Belépés a jégpályára","Eintritt Eisbahn"],
-"Tarife în curând":["Prices coming soon","Tarifs à venir","Árak hamarosan","Preise folgen"],
-"Vezi informațiile despre tarife":["See pricing information","Voir les informations tarifaires","Árinformációk megtekintése","Preisinformationen ansehen"],
-"Imagine ilustrativă cu un carusel clasic, luminat în nuanțe aurii":["Illustrative image of a classic carousel glowing with golden lights","Image illustrative d’un carrousel classique illuminé de lumières dorées","Illusztráció arany fényben ragyogó klasszikus körhintáról","Illustratives Bild eines klassischen Karussells im goldenen Lichterglanz"],
-"ÎNCĂ O TURĂ DE COPILĂRIE.":["ONE MORE SPIN THROUGH CHILDHOOD.","UN TOUR DE PLUS EN ENFANCE.","MÉG EGY KÖR GYERMEKKOR.","NOCH EINE RUNDE KINDHEIT."],
-"BUCURIA SE ÎNVÂRTE":["JOY GOES ROUND","LA JOIE PREND UN TOUR","KÖRBE-KÖRBE AZ ÖRÖMMEL","DIE FREUDE DREHT SICH"],
-"O tură mică.":["A little ride.","Un petit tour.","Egy kis kör.","Eine kleine Runde."],
-"Un zâmbet mare.":["A big smile.","Un grand sourire.","Egy nagy mosoly.","Ein großes Lächeln."],
-"Lumini calde, căluți de poveste și acel „mai vreau o dată”. Caruselul aduce puțin din farmecul copilăriei în mijlocul unei zile de iarnă.":["Warm lights, storybook horses and that familiar ‘just one more ride’. The carousel brings a little childhood magic to a winter’s day.","Des lumières chaleureuses, des chevaux de conte et ce fameux « encore un tour ». Le carrousel glisse un peu de la magie de l’enfance dans une journée d’hiver.","Meleg fények, mesebeli lovacskák és az ismerős „még egyszer!” A körhinta egy kis gyermekkori varázst csempész a téli napokba.","Warme Lichter, märchenhafte Pferde und dieses vertraute „Noch einmal!“. Das Karussell bringt ein wenig Kindheitszauber in einen Wintertag."],
-"Tură de carusel":["Carousel ride","Tour de carrousel","Egy kör a körhintán","Karussellfahrt"],
-"ÎNTRE DOUĂ TURE":["BETWEEN TWO RIDES","ENTRE DEUX TOURS","KÉT KÖR KÖZÖTT","ZWISCHEN ZWEI RUNDEN"],
-"Și o pauză":["And a break","Et une pause","És egy kis szünet","Und eine Pause"],
-"cu gust bun.":["to savour.","gourmande.","jó ízekkel.","zum Genießen."],
-"La târg te așteaptă și două puncte de vânzare, pentru o pauză între patinoar și carusel.":["Two vendors will also be at the fair, for a little break between the ice rink and the carousel.","Deux stands vous attendent aussi au marché, pour une petite pause entre la patinoire et le carrousel.","A vásáron két árus is vár, ha megpihennél a korcsolyázás és a körhintázás között.","Auch zwei Verkaufsstände erwarten dich auf dem Markt – für eine kleine Pause zwischen Eisbahn und Karussell."],
-"Revenim în curând cu oferta lor.":["Their offerings will be announced soon.","Leur offre sera annoncée prochainement.","Kínálatukkal hamarosan jelentkezünk.","Das Angebot geben wir bald bekannt."],
-"PLANIFICĂ-ȚI BUCURIA":["PLAN A LITTLE JOY","PRÉPAREZ VOTRE VISITE","TERVEZZ EGY KIS ÖRÖMÖT","PLANE DEINE VORFREUDE"],
-"Lucruri mici.":["Little things.","De petites choses.","Apró dolgok.","Kleine Dinge."],
-"Momente de păstrat.":["Lasting memories.","Des instants précieux.","Maradandó emlékek.","Bleibende Erinnerungen."],
-"Pregătim lista de prețuri.":["We’re preparing the price list.","Nous préparons la liste des tarifs.","Az árlista készül.","Wir bereiten die Preisliste vor."],
-"O vei găsi chiar aici, înainte de vizită.":["You’ll find it right here before your visit.","Vous la trouverez ici avant votre visite.","A látogatás előtt itt találod majd.","Du findest sie vor deinem Besuch hier."],
-"Patinoar":["Ice rink","Patinoire","Korcsolyapálya","Eisbahn"],
-"Carusel":["Carousel","Carrousel","Körhinta","Karussell"],
-"NE ÎNTÂLNIM AICI":["MEET US HERE","RETROUVONS-NOUS ICI","ITT TALÁLKOZUNK","HIER TREFFEN WIR UNS"],
-"Ieși din casă.":["Step outside.","Sortez de chez vous.","Mozdulj ki.","Komm nach draußen."],
-"Intră în iarnă.":["Step into winter.","Entrez dans l’hiver.","Lépj be a télbe.","Mitten in den Winter."],
-"Ia-ți oamenii dragi și pofta de o ieșire.":["Bring your favourite people and a sense of adventure.","Venez avec vos proches et l’envie de partager un moment.","Hozd el a szeretteidet és a kedved egy kis kiruccanáshoz.","Bring deine Lieblingsmenschen und die Lust auf einen Ausflug mit."],
-"Restul începe cu prima tură.":["The rest starts with the first lap.","La suite commence au premier tour.","A többi az első körrel kezdődik.","Der Rest beginnt mit der ersten Runde."],
-"PROGRAM":["OPENING HOURS","HORAIRES","NYITVATARTÁS","ÖFFNUNGSZEITEN"],
-"Perioada evenimentului va fi anunțată în curând.":["Event dates will be announced soon.","Les dates de l’événement seront annoncées prochainement.","A rendezvény időpontját hamarosan bejelentjük.","Den Veranstaltungszeitraum geben wir bald bekannt."],
-"LOCAȚIE":["LOCATION","LIEU","HELYSZÍN","ORT"],
-"Sala Sporturilor":["Sports Hall","Salle des sports","Sportcsarnok","Sporthalle"],
-"În parcare · Cluj-Napoca":["In the car park · Cluj-Napoca","Sur le parking · Cluj-Napoca","A parkolóban · Kolozsvár","Auf dem Parkplatz · Cluj-Napoca"],
-"Deschide harta":["Open the map","Ouvrir la carte","Térkép megnyitása","Karte öffnen"],
-"Ne vedem la încă o tură.":["See you for another round.","À bientôt pour un autre tour.","Találkozunk még egy körre.","Wir sehen uns zur nächsten Runde."],
-"© Târgul de Iarnă Cluj":["© Cluj Winter Fair","© Marché d’hiver de Cluj","© Kolozsvári Téli Vásár","© Wintermarkt Cluj"],
-"Cookie-uri și confidențialitate":["Cookies and privacy","Cookies et confidentialité","Sütik és adatvédelem","Cookies und Datenschutz"],
-"Imagini de atmosferă generate ilustrativ.":["AI-generated images for illustrative purposes.","Images d’ambiance générées à titre illustratif.","Mesterséges intelligenciával készült hangulatképek, illusztrációként.","KI-generierte Stimmungsbilder zur Illustration."]
+  "Târgul de Iarnă Cluj — bucurii pe gheață": [
+    "Cluj Winter Fair — joy on ice",
+    "Marché d’hiver de Cluj — la joie sur glace",
+    "Kolozsvári Téli Vásár — öröm a jégen",
+    "Wintermarkt Cluj — Freude auf dem Eis"
+  ],
+  "Patinoar, carusel și o pauză de răsfăț la Târgul de Iarnă Cluj, în parcarea Sălii Sporturilor Horia Demian. Program 10:00–22:00.": [
+    "Ice skating, a carousel and a little treat at Cluj Winter Fair, in the Horia Demian Sports Hall car park. Opening hours 10:00–22:00.",
+    "Patinoire, carrousel et pause gourmande au Marché d’hiver de Cluj, sur le parking de la salle des sports Horia Demian. Horaires : 10 h–22 h.",
+    "Korcsolyapálya, körhinta és egy kis finomság a Kolozsvári Téli Vásáron, a Horia Demian Sportcsarnok parkolójában. Nyitvatartás: 10:00–22:00.",
+    "Eisbahn, Karussell und eine kleine Genusspause auf dem Wintermarkt Cluj, auf dem Parkplatz der Sporthalle Horia Demian. Öffnungszeiten: 10:00–22:00 Uhr."
+  ],
+  "Târgul de Iarnă Cluj": [
+    "Cluj Winter Fair",
+    "Marché d’hiver de Cluj",
+    "Kolozsvári Téli Vásár",
+    "Wintermarkt Cluj"
+  ],
+  "Ne întâlnim pe gheață. Patinoar și carusel la Sala Sporturilor Horia Demian, 10:00–22:00.": [
+    "Meet us on the ice. Ice rink and carousel at Horia Demian Sports Hall, 10:00–22:00.",
+    "Rendez-vous sur la glace. Patinoire et carrousel à la salle des sports Horia Demian, de 10 h à 22 h.",
+    "Találkozzunk a jégen! Korcsolyapálya és körhinta a Horia Demian Sportcsarnoknál, 10:00–22:00.",
+    "Wir treffen uns auf dem Eis. Eisbahn und Karussell an der Sporthalle Horia Demian, 10:00–22:00 Uhr."
+  ],
+  "Sari la conținut": [
+    "Skip to content",
+    "Aller au contenu",
+    "Ugrás a tartalomra",
+    "Zum Inhalt springen"
+  ],
+  "Târgul de Iarnă Cluj, început": [
+    "Cluj Winter Fair, home",
+    "Marché d’hiver de Cluj, accueil",
+    "Kolozsvári Téli Vásár, kezdőlap",
+    "Wintermarkt Cluj, Startseite"
+  ],
+  "Târgul de Iarnă": [
+    "Winter Fair",
+    "Marché d’hiver",
+    "Téli Vásár",
+    "Wintermarkt"
+  ],
+  "Meniu": [
+    "Menu",
+    "Menu",
+    "Menü",
+    "Menü"
+  ],
+  "Navigație principală": [
+    "Main navigation",
+    "Navigation principale",
+    "Fő navigáció",
+    "Hauptnavigation"
+  ],
+  "Experiențe": [
+    "Experiences",
+    "Expériences",
+    "Élmények",
+    "Erlebnisse"
+  ],
+  "Tarife": [
+    "Prices",
+    "Tarifs",
+    "Árak",
+    "Preise"
+  ],
+  "Program & locație": [
+    "Hours & location",
+    "Horaires et lieu",
+    "Nyitvatartás és helyszín",
+    "Zeiten & Anfahrt"
+  ],
+  "Ne vedem la târg": [
+    "See you at the fair",
+    "Rendez-vous au marché",
+    "Találkozzunk a vásáron",
+    "Wir sehen uns dort"
+  ],
+  "Limba": [
+    "Language",
+    "Langue",
+    "Nyelv",
+    "Sprache"
+  ],
+  "CLUJ-NAPOCA · SALA SPORTURILOR HORIA DEMIAN": [
+    "CLUJ-NAPOCA · HORIA DEMIAN SPORTS HALL",
+    "CLUJ-NAPOCA · SALLE DES SPORTS HORIA DEMIAN",
+    "KOLOZSVÁR · HORIA DEMIAN SPORTCSARNOK",
+    "CLUJ-NAPOCA · SPORTHALLE HORIA DEMIAN"
+  ],
+  "Iarna are": [
+    "Winter has",
+    "L’hiver a",
+    "A tél új",
+    "Der Winter hat"
+  ],
+  "un nou loc": [
+    "a new place",
+    "un lieu",
+    "otthonra lel",
+    "einen Ort"
+  ],
+  "de": [
+    "for",
+    "de",
+    "az",
+    "voll"
+  ],
+  "bucurie.": [
+    "joy.",
+    "bonheur.",
+    "örömben.",
+    "Freude."
+  ],
+  "Un pas pe gheață. O tură de carusel.": [
+    "A step onto the ice. A ride on the carousel.",
+    "Un pas sur la glace. Un tour de carrousel.",
+    "Egy lépés a jégen. Egy kör a körhintán.",
+    "Ein Schritt aufs Eis. Eine Runde Karussell."
+  ],
+  "Și încă un motiv să ieșim împreună.": [
+    "One more reason to head out together.",
+    "Une raison de plus de sortir ensemble.",
+    "És még egy ok, hogy együtt mozduljunk ki.",
+    "Und noch ein Grund, gemeinsam rauszugehen."
+  ],
+  "Descoperă târgul": [
+    "Explore the fair",
+    "Découvrir le marché",
+    "Fedezd fel a vásárt",
+    "Den Markt entdecken"
+  ],
+  "PATINOAR · CARUSEL · GUSTURI BUNE": [
+    "ICE RINK · CAROUSEL · LITTLE TREATS",
+    "PATINOIRE · CARROUSEL · GOURMANDISES",
+    "KORCSOLYAPÁLYA · KÖRHINTA · FINOMSÁGOK",
+    "EISBAHN · KARUSSELL · GENUSSMOMENTE"
+  ],
+  "Timp pentru o bucurie simplă.": [
+    "Time for a little joy.",
+    "Le temps d’un bonheur simple.",
+    "Idő egy kis örömre.",
+    "Zeit für die kleinen Freuden."
+  ],
+  "Parcarea Sălii Sporturilor Horia Demian": [
+    "Horia Demian Sports Hall car park",
+    "Parking de la salle des sports Horia Demian",
+    "A Horia Demian Sportcsarnok parkolója",
+    "Parkplatz der Sporthalle Horia Demian"
+  ],
+  "TÂRGUL DE IARNĂ CLUJ": [
+    "CLUJ WINTER FAIR",
+    "MARCHÉ D’HIVER DE CLUJ",
+    "KOLOZSVÁRI TÉLI VÁSÁR",
+    "WINTERMARKT CLUJ"
+  ],
+  "Mai puțină grabă.": [
+    "Less rushing.",
+    "Moins de hâte.",
+    "Kevesebb rohanás.",
+    "Weniger Eile."
+  ],
+  "Mai multă iarnă.": [
+    "More winter.",
+    "Plus d’hiver.",
+    "Több téli élmény.",
+    "Mehr Winter."
+  ],
+  "Sunt zile în care o ieșire simplă devine amintirea preferată. Ne întâlnim la patinoar, ne lăsăm purtați de carusel și facem loc pentru încă puțin timp împreună.": [
+    "Sometimes a simple outing becomes your favourite memory. Meet us at the ice rink, take a spin on the carousel and make a little more time for each other.",
+    "Parfois, une simple sortie devient un souvenir précieux. Retrouvons-nous à la patinoire, laissons-nous emporter par le carrousel et prenons un peu plus de temps ensemble.",
+    "Van, amikor egy egyszerű kiruccanásból lesz a legkedvesebb emlék. Találkozzunk a jégpályán, üljünk fel a körhintára, és szánjunk még egy kis időt egymásra.",
+    "Manchmal wird ein einfacher Ausflug zur liebsten Erinnerung. Wir treffen uns auf der Eisbahn, drehen eine Runde Karussell und nehmen uns ein bisschen mehr Zeit füreinander."
+  ],
+  "UN PIC DE CURAJ. MULTĂ BUCURIE.": [
+    "A LITTLE COURAGE. A LOT OF JOY.",
+    "UN PEU D’AUDACE. BEAUCOUP DE JOIE.",
+    "EGY KIS BÁTORSÁG. SOK-SOK ÖRÖM.",
+    "EIN WENIG MUT. GANZ VIEL FREUDE."
+  ],
+  "PE GHEAȚĂ, ÎMPREUNĂ": [
+    "TOGETHER ON THE ICE",
+    "ENSEMBLE SUR LA GLACE",
+    "EGYÜTT A JÉGEN",
+    "GEMEINSAM AUFS EIS"
+  ],
+  "Prinde iarna": [
+    "Glide into",
+    "L’hiver",
+    "Csússz bele",
+    "Gleite in"
+  ],
+  "din alunecare.": [
+    "winter.",
+    "en glissant.",
+    "a télbe.",
+    "den Winter."
+  ],
+  "Primele mișcări timide sau încă o tură în ritmul tău. Patinoarul e locul în care obrajii se înroșesc, râsetele se aud mai tare și timpul trece puțin altfel.": [
+    "Tentative first steps or another lap at your own pace. The rink is where cheeks turn rosy, laughter grows louder and time takes on a different rhythm.",
+    "Des premiers pas hésitants ou un nouveau tour à votre rythme. Sur la patinoire, les joues rosissent, les rires résonnent et le temps s’écoule autrement.",
+    "Az első bizonytalan mozdulatok, vagy még egy kör a saját tempódban. A jégpályán kipirul az arcunk, hangosabb a nevetés, és más ritmusban telik az idő.",
+    "Die ersten zaghaften Schritte oder noch eine Runde im eigenen Tempo. Auf der Eisbahn werden die Wangen rot, das Lachen lauter und die Zeit vergeht ein bisschen anders."
+  ],
+  "Acces patinoar": [
+    "Ice rink admission",
+    "Accès à la patinoire",
+    "Belépés a jégpályára",
+    "Eintritt Eisbahn"
+  ],
+  "Tarife în curând": [
+    "Prices coming soon",
+    "Tarifs à venir",
+    "Árak hamarosan",
+    "Preise folgen"
+  ],
+  "Vezi informațiile despre tarife": [
+    "See pricing information",
+    "Voir les informations tarifaires",
+    "Árinformációk megtekintése",
+    "Preisinformationen ansehen"
+  ],
+  "ÎNCĂ O TURĂ DE COPILĂRIE.": [
+    "ONE MORE SPIN THROUGH CHILDHOOD.",
+    "UN TOUR DE PLUS EN ENFANCE.",
+    "MÉG EGY KÖR GYERMEKKOR.",
+    "NOCH EINE RUNDE KINDHEIT."
+  ],
+  "BUCURIA SE ÎNVÂRTE": [
+    "JOY GOES ROUND",
+    "LA JOIE PREND UN TOUR",
+    "KÖRBE-KÖRBE AZ ÖRÖMMEL",
+    "DIE FREUDE DREHT SICH"
+  ],
+  "O tură mică.": [
+    "A little ride.",
+    "Un petit tour.",
+    "Egy kis kör.",
+    "Eine kleine Runde."
+  ],
+  "Un zâmbet mare.": [
+    "A big smile.",
+    "Un grand sourire.",
+    "Egy nagy mosoly.",
+    "Ein großes Lächeln."
+  ],
+  "Lumini calde, căluți de poveste și acel „mai vreau o dată”. Caruselul aduce puțin din farmecul copilăriei în mijlocul unei zile de iarnă.": [
+    "Warm lights, storybook horses and that familiar ‘just one more ride’. The carousel brings a little childhood magic to a winter’s day.",
+    "Des lumières chaleureuses, des chevaux de conte et ce fameux « encore un tour ». Le carrousel glisse un peu de la magie de l’enfance dans une journée d’hiver.",
+    "Meleg fények, mesebeli lovacskák és az ismerős „még egyszer!” A körhinta egy kis gyermekkori varázst csempész a téli napokba.",
+    "Warme Lichter, märchenhafte Pferde und dieses vertraute „Noch einmal!“. Das Karussell bringt ein wenig Kindheitszauber in einen Wintertag."
+  ],
+  "Tură de carusel": [
+    "Carousel ride",
+    "Tour de carrousel",
+    "Egy kör a körhintán",
+    "Karussellfahrt"
+  ],
+  "ÎNTRE DOUĂ TURE": [
+    "BETWEEN TWO RIDES",
+    "ENTRE DEUX TOURS",
+    "KÉT KÖR KÖZÖTT",
+    "ZWISCHEN ZWEI RUNDEN"
+  ],
+  "Și o pauză": [
+    "And a break",
+    "Et une pause",
+    "És egy kis szünet",
+    "Und eine Pause"
+  ],
+  "cu gust bun.": [
+    "to savour.",
+    "gourmande.",
+    "jó ízekkel.",
+    "zum Genießen."
+  ],
+  "La târg te așteaptă și două puncte de vânzare, pentru o pauză între patinoar și carusel.": [
+    "Two vendors will also be at the fair, for a little break between the ice rink and the carousel.",
+    "Deux stands vous attendent aussi au marché, pour une petite pause entre la patinoire et le carrousel.",
+    "A vásáron két árus is vár, ha megpihennél a korcsolyázás és a körhintázás között.",
+    "Auch zwei Verkaufsstände erwarten dich auf dem Markt – für eine kleine Pause zwischen Eisbahn und Karussell."
+  ],
+  "Revenim în curând cu oferta lor.": [
+    "Their offerings will be announced soon.",
+    "Leur offre sera annoncée prochainement.",
+    "Kínálatukkal hamarosan jelentkezünk.",
+    "Das Angebot geben wir bald bekannt."
+  ],
+  "PLANIFICĂ-ȚI BUCURIA": [
+    "PLAN A LITTLE JOY",
+    "PRÉPAREZ VOTRE VISITE",
+    "TERVEZZ EGY KIS ÖRÖMÖT",
+    "PLANE DEINE VORFREUDE"
+  ],
+  "Lucruri mici.": [
+    "Little things.",
+    "De petites choses.",
+    "Apró dolgok.",
+    "Kleine Dinge."
+  ],
+  "Momente de păstrat.": [
+    "Lasting memories.",
+    "Des instants précieux.",
+    "Maradandó emlékek.",
+    "Bleibende Erinnerungen."
+  ],
+  "Pregătim lista de prețuri.": [
+    "We’re preparing the price list.",
+    "Nous préparons la liste des tarifs.",
+    "Az árlista készül.",
+    "Wir bereiten die Preisliste vor."
+  ],
+  "O vei găsi chiar aici, înainte de vizită.": [
+    "You’ll find it right here before your visit.",
+    "Vous la trouverez ici avant votre visite.",
+    "A látogatás előtt itt találod majd.",
+    "Du findest sie vor deinem Besuch hier."
+  ],
+  "Patinoar": [
+    "Ice rink",
+    "Patinoire",
+    "Korcsolyapálya",
+    "Eisbahn"
+  ],
+  "Carusel": [
+    "Carousel",
+    "Carrousel",
+    "Körhinta",
+    "Karussell"
+  ],
+  "NE ÎNTÂLNIM AICI": [
+    "MEET US HERE",
+    "RETROUVONS-NOUS ICI",
+    "ITT TALÁLKOZUNK",
+    "HIER TREFFEN WIR UNS"
+  ],
+  "Ieși din casă.": [
+    "Step outside.",
+    "Sortez de chez vous.",
+    "Mozdulj ki.",
+    "Komm nach draußen."
+  ],
+  "Intră în iarnă.": [
+    "Step into winter.",
+    "Entrez dans l’hiver.",
+    "Lépj be a télbe.",
+    "Mitten in den Winter."
+  ],
+  "Ia-ți oamenii dragi și pofta de o ieșire.": [
+    "Bring your favourite people and a sense of adventure.",
+    "Venez avec vos proches et l’envie de partager un moment.",
+    "Hozd el a szeretteidet és a kedved egy kis kiruccanáshoz.",
+    "Bring deine Lieblingsmenschen und die Lust auf einen Ausflug mit."
+  ],
+  "Restul începe cu prima tură.": [
+    "The rest starts with the first lap.",
+    "La suite commence au premier tour.",
+    "A többi az első körrel kezdődik.",
+    "Der Rest beginnt mit der ersten Runde."
+  ],
+  "PROGRAM": [
+    "OPENING HOURS",
+    "HORAIRES",
+    "NYITVATARTÁS",
+    "ÖFFNUNGSZEITEN"
+  ],
+  "Perioada evenimentului va fi anunțată în curând.": [
+    "Event dates will be announced soon.",
+    "Les dates de l’événement seront annoncées prochainement.",
+    "A rendezvény időpontját hamarosan bejelentjük.",
+    "Den Veranstaltungszeitraum geben wir bald bekannt."
+  ],
+  "LOCAȚIE": [
+    "LOCATION",
+    "LIEU",
+    "HELYSZÍN",
+    "ORT"
+  ],
+  "Sala Sporturilor": [
+    "Sports Hall",
+    "Salle des sports",
+    "Sportcsarnok",
+    "Sporthalle"
+  ],
+  "În parcare · Cluj-Napoca": [
+    "In the car park · Cluj-Napoca",
+    "Sur le parking · Cluj-Napoca",
+    "A parkolóban · Kolozsvár",
+    "Auf dem Parkplatz · Cluj-Napoca"
+  ],
+  "Deschide harta": [
+    "Open the map",
+    "Ouvrir la carte",
+    "Térkép megnyitása",
+    "Karte öffnen"
+  ],
+  "Ne vedem la încă o tură.": [
+    "See you for another round.",
+    "À bientôt pour un autre tour.",
+    "Találkozunk még egy körre.",
+    "Wir sehen uns zur nächsten Runde."
+  ],
+  "© Târgul de Iarnă Cluj": [
+    "© Cluj Winter Fair",
+    "© Marché d’hiver de Cluj",
+    "© Kolozsvári Téli Vásár",
+    "© Wintermarkt Cluj"
+  ],
+  "Cookie-uri și confidențialitate": [
+    "Cookies and privacy",
+    "Cookies et confidentialité",
+    "Sütik és adatvédelem",
+    "Cookies und Datenschutz"
+  ],
+  "Patinoar în aer liber, sub lumini calde de iarnă": [
+    "Outdoor ice rink beneath warm winter lights",
+    "Patinoire en plein air sous de douces lumières d’hiver",
+    "Szabadtéri korcsolyapálya meleg téli fények alatt",
+    "Eisbahn im Freien unter warmen Winterlichtern"
+  ],
+  "Familii pe un patinoar luminat, la lăsarea serii": [
+    "Families skating on a lit ice rink at dusk",
+    "Familles sur une patinoire illuminée au crépuscule",
+    "Családok egy kivilágított korcsolyapályán alkonyatkor",
+    "Familien auf einer beleuchteten Eisbahn in der Abenddämmerung"
+  ],
+  "Carusel clasic, luminat în nuanțe aurii": [
+    "Classic carousel glowing with golden lights",
+    "Carrousel classique illuminé de lumières dorées",
+    "Arany fényben ragyogó klasszikus körhinta",
+    "Klassisches Karussell im goldenen Lichterglanz"
+  ]
 }
